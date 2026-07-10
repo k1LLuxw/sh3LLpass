@@ -28,6 +28,11 @@
 - MinGW-w64 (otomatik derleme için)  
   - Ubuntu/Debian: `sudo apt install mingw-w64`  
   - Kali Linux: önceden kuruludur veya `sudo apt install mingw-w64`
+ 
+  - Disclaimer / Sorumluluk Reddi
+EN: This tool is provided for educational purposes and authorized security testing only. The author (@k1LLuxw) is not responsible for any misuse or illegal activities. Users are solely responsible for complying with all applicable laws.
+
+TR: Bu araç yalnızca eğitim ve yetkili güvenlik testleri için sağlanmıştır. Yazar (@k1LLuxw) kötüye kullanım veya yasadışı faaliyetlerden sorumlu değildir. Kullanıcılar, tüm geçerli yasalara uymakla yükümlüdür.
 
 ---
 
