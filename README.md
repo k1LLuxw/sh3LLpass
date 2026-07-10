@@ -41,5 +41,5 @@ TR: Bu araç yalnızca eğitim ve yetkili güvenlik testleri için sağlanmışt
 
 ```bash
 git clone https://github.com/k1LLuxw/sh3llpass.git
-cd sh3LLpass
+cd sh3llpass
 chmod +x sh3llpass.py
