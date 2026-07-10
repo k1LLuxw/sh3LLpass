@@ -1,4 +1,4 @@
-# sh3llpass
+# sh3LLpass
 **Multi-Layer Shellcode Obfuscator & EXE Builder**  
 *Çok Katmanlı Shellcode Gizleyici ve EXE Oluşturucu*
 
@@ -40,5 +40,5 @@ TR: Bu araç yalnızca eğitim ve yetkili güvenlik testleri için sağlanmışt
 
 ```bash
 git clone https://github.com/k1LLuxw/sh3llpass.git
-cd sh3llpass
+cd sh3LLpass
 chmod +x sh3llpass.py
