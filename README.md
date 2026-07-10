@@ -34,6 +34,6 @@
 ## Installation / Kurulum
 
 ```bash
-git clone https://github.com/yourusername/sh3llpass.git
+git clone https://github.com/k1LLuxw/sh3llpass.git
 cd sh3llpass
 chmod +x sh3llpass.py
