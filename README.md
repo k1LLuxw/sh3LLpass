@@ -1,6 +1,6 @@
 # sh3LLpass
 **Multi-Layer Shellcode Obfuscator & EXE Builder**  
-*Çok Katmanlı Shellcode Gizleyici ve EXE Oluşturucu*
+*Çok Katmanlı Shellcode Fudd*
 
 ---
 
@@ -11,9 +11,10 @@
 > ⚠️ For authorized penetration testing and educational use only.
 
 **TR:**  
-`sh3llpass`, ham shellcode'u (örn. `msfvenom` ile oluşturulmuş `.raw`) alır, üzerine **5 katmanlı şifreleme/gizleme** (XOR → RC4 → Bayt Değişimi → Junk Ekleme → Delta) uygular ve polimorfik bir C yükleyici oluşturur. Bu yükleyiciyi derleyerek içinde **sanal alan atlatma, hata ayıklayıcı tespiti ve NTDLL unhooking** barındıran bir Windows EXE dosyasına dönüştürür.  
+`sh3llpass`, ham shellcode'u (örn. `msfvenom` ile oluşturulmuş `.raw`) alır, üzerine **5 katmanlı şifreleme/gizleme** (XOR → RC4 → Bayt Değişimi → Junk Ekleme → Delta) uygular ve polimorfik bir C yükleyici oluşturur. Bu yükleyiciyi derleyerek içinde **sandbox atlatma, hata ayıklayıcı tespiti ve NTDLL unhooking** barındıran bir Windows EXE dosyasına dönüştürür.  
 > ⚠️ Yalnızca yetkili sızma testleri ve eğitim amaçlıdır. İzinsiz kullanım yasaktır.
 
+<img width="1281" height="527" alt="image" src="https://github.com/user-attachments/assets/92607aa6-f673-49cb-9a50-0195d8f75e65" />
 
 ## 📦 Requirements / Gereksinimler
 
